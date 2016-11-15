@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 
+=======
+>>>>>>> b40ea78fa3cf7aecf0d49aa187e3d0a175de8757
 # import my libraries
 import numpy
 import warnings
